@@ -10,7 +10,7 @@ enum AppVersion {
 }
 
 const enum Assets {
-	Logo = "https://cdn.rcd.gg/PreMiD/websites/S/Stremio/assets/logo.png",
+	Logo = "https://cdn2.steamgriddb.com/icon/edb484b38d130b891ca248fa171b274d.png",
 }
 
 function getAppVersion(hostname: string) {
