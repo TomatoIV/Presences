@@ -23,9 +23,9 @@
 		"web.stremio.com"
 	],
 	"version": "2.0.1",
-	"logo": "https://cdn.rcd.gg/PreMiD/websites/S/Stremio/assets/logo.png",
-	"thumbnail": "https://cdn.rcd.gg/PreMiD/websites/S/Stremio/assets/thumbnail.jpg",
-	"color": "#8A5AAB",
+	"logo": "https://cdn2.steamgriddb.com/icon/edb484b38d130b891ca248fa171b274d.png",
+	"thumbnail": "https://cdn2.steamgriddb.com/hero/d0ebdfd6210daba57a0293054ecba8ea.png",
+	"color": "1155d9",
 	"category": "videos",
 	"tags": [
 		"streaming",
